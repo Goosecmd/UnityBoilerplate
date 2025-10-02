@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here (EDIT IT!) https://goosecmd.github.io/UnityBoilerplate/
+WebGL published here (EDIT IT!) https://Goosecmd.github.io/UnityBoilerplate/
 
 # Setup Steps:
 
